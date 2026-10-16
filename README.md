@@ -113,7 +113,7 @@ rnn-text-generation/
 (tested with TensorFlow 2.21 / Python 3.13, CPU only).
 
 ```bash
-git clone https://github.com/<your-username>/rnn-text-generation-shakespeare.git
+git clone https://github.com/21hamza/rnn-text-generation-shakespeare.git
 cd rnn-text-generation-shakespeare
 pip install -r requirements.txt
 jupyter notebook rnn_text_generation.ipynb      # then Run All
